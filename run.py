@@ -17,5 +17,5 @@ if __name__ == "__main__":
   try:
     run()
   except Exception as s:
-    exit("[!] Error: %s"%(s)))
+    exit("[!] Error: %s"%(s))
 
